@@ -1,1 +1,1 @@
-# my-js-practice
+# My practice for Java Script
